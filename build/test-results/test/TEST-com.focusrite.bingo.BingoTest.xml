@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.focusrite.bingo.BingoTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-12-01T09:05:15" hostname="VIVEK" time="0.031">
+  <properties/>
+  <testcase name="solvePart1()" classname="com.focusrite.bingo.BingoTest" time="0.025"/>
+  <testcase name="solvePart2()" classname="com.focusrite.bingo.BingoTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
